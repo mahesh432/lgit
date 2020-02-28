@@ -1,6 +1,7 @@
 Hello world
 hello world again
 hello world again and again
+hello --graph --line
 Experimental feature
 making changes to see in git diff
 to see values for values for git diff and git diff --staged
